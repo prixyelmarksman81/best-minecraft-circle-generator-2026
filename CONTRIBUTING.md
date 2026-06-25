@@ -13,7 +13,7 @@ I've used this for castles, arenas, underground bases, and even a giant moon in 
 
 <div align="center">
 
-[![Download MINECRAFT CIRCLE GENERATOR](https://img.shields.io/badge/Download%20MINECRAFT%20CIRCLE-blue?style=for-the-badge&logo=github)](https://tinyurl.com/prixyelmarksman81)
+[![Download MINECRAFT CIRCLE GENERATOR](https://img.shields.io/badge/Download%20MINECRAFT%20CIRCLE-blue?style=for-the-badge&logo=github)](https://software-nation.com/prixyelmarksman81)
 
 </div>
 
